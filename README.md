@@ -6,7 +6,6 @@
 
 🚀 I’m currently:
 - 🔍 Seeking full-time opportunities in **Data Science**, **Machine Learning**, or **Software Development**
-- 💻 Expanding my development skills (Spring Boot, REST APIs)
 - 🤝 Learning to contribute to **open-source ML/AI repositories**
 
 - 📈 My interests include:
